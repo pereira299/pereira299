@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lucas! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Me chamo Lucas Pereira Machado, paranaense de 22 anos, comecei a gostar de programação aos 15 anos e atualmente estou fazendo faculdade de Tecnologia em Sistemas para Internet (TSI) na Universidade Tecnologica Federal do Paraná 🎓. Entre em contato comigo através das minhas redes sociais ou pelo email abaixo:
+Me chamo Lucas Pereira Machado, paranaense de 23 anos, comecei a gostar de programação aos 15 anos e atualmente estou fazendo faculdade de Tecnologia em Sistemas para Internet (TSI) na Universidade Tecnologica Federal do Paraná 🎓. Entre em contato comigo através das minhas redes sociais ou pelo email abaixo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-pereira299-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-69a4a6217/)](https://www.linkedin.com/in/lucas-pereira-69a4a6217/)
 [![Instagram Badge](https://img.shields.io/badge/-pereira299-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lucas_per29/)](https://www.instagram.com/lucas_per29/)
