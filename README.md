@@ -6,6 +6,11 @@ Me chamo Lucas Pereira Machado, paranaense de 23 anos, comecei a gostar de progr
 [![Instagram Badge](https://img.shields.io/badge/-pereira299-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lucas_per29/)](https://www.instagram.com/lucas_per29/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasper057@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasper057@gmail.com)](mailto:lucasper057@gmail.com)
 
+## 💻 Site pessoal
+Acesse o link abaixo e confira mais fatos sobre mim, cursos realizados e projetos que desenvolvi.
+
+http://pereira299.vercel.app/
+
 ## ⚡ Technologies
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
