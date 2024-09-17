@@ -9,7 +9,7 @@ Me chamo Lucas Pereira Machado, paranaense de 23 anos, comecei a gostar de progr
 ## 💻 Site pessoal
 Acesse o link abaixo e confira mais fatos sobre mim, cursos realizados e projetos que desenvolvi.
 
-http://pereira299.vercel.app/
+http://pereira299.dev/
 
 ## ⚡ Technologies
 
