@@ -40,6 +40,10 @@ http://pereira299.dev/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pereira299&layout=compact&langs_count=7&theme=prussian)
 
  
-  ![Snake animation](https://github.com/pereira299/pereira299/blob/output/github-contribution-grid-snake.svg)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
  
 </div>
